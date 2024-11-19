@@ -1,6 +1,9 @@
+<h2>c'est l'architecture globale comment une plateforme E-commerce se fonctionne en utilisant les  microservices </h2>
+<img src="Captures/acrh-ecomm.PNG" alt="">
+<hr/>
+
 <h3>c'est la base de donnée de la microservice customer crée pour gérer les client </h3>
 <img src="Captures/H2Customers.PNG" alt="">
-<hr/>
 
 <h3>c'est la base de donnée de la microservice inventory crée pour gérer les produits </h3>
 <img src="Captures/productsH2.PNG" alt="">
